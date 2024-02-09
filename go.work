@@ -1,6 +1,9 @@
 go 1.21.1
 
 use (
+	./4-html-link-parser
+	./5-sitemap-builder
+	./7-cli
 	./cyoa
 	./quiz-game
 	./url-shortener
