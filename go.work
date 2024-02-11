@@ -4,6 +4,7 @@ use (
 	./4-html-link-parser
 	./5-sitemap-builder
 	./7-cli
+	./8-phone-number-normalizer
 	./cyoa
 	./quiz-game
 	./url-shortener
