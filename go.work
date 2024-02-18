@@ -1,6 +1,7 @@
 go 1.21.1
 
 use (
+	./12-file-renaming-tool
 	./4-html-link-parser
 	./5-sitemap-builder
 	./7-cli
