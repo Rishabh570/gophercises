@@ -5,6 +5,7 @@ use (
 	./5-sitemap-builder
 	./7-cli
 	./8-phone-number-normalizer
+	./9-deck-of-cards
 	./cyoa
 	./quiz-game
 	./url-shortener
