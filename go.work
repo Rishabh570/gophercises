@@ -2,6 +2,9 @@ go 1.21.1
 
 use (
 	./12-file-renaming-tool
+	./13-quiet-hn
+	./15-secret-cli
+	./16-twitter-contest
 	./4-html-link-parser
 	./5-sitemap-builder
 	./7-cli
